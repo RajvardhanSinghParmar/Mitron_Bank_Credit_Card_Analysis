@@ -18,5 +18,7 @@
 - Salaried IT Employees and Other Salaried Employees drive the majority of transactions.💼💻💰
 
 **🛠️𝐓𝐨𝐨𝐥𝐬 𝐔𝐬𝐞𝐝:** 
-- Power BI
-- Excel
+- 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈📊
+- 𝐄𝐱𝐜𝐞𝐥📈
+- 𝐌𝐲𝐒𝐐𝐋🗄️
+
